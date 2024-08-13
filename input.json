@@ -1,0 +1,102 @@
+[
+  {
+    "sigla": "C",
+    "fullName": "C Programming Language",
+    "year": 1972
+  },
+  {
+    "sigla": "C++",
+    "fullName": "C Plus Plus",
+    "year": 1983
+  },
+  {
+    "sigla": "Java",
+    "fullName": "Java Programming Language",
+    "year": 1995
+  },
+  {
+    "sigla": "Python",
+    "fullName": "Python Programming Language",
+    "year": 1991
+  },
+  {
+    "sigla": "JavaScript",
+    "fullName": "JavaScript Programming Language",
+    "year": 1995
+  },
+  {
+    "sigla": "Ruby",
+    "fullName": "Ruby Programming Language",
+    "year": 1995
+  },
+  {
+    "sigla": "Go",
+    "fullName": "Go Programming Language",
+    "year": 2009
+  },
+  {
+    "sigla": "Swift",
+    "fullName": "Swift Programming Language",
+    "year": 2014
+  },
+  {
+    "sigla": "PHP",
+    "fullName": "PHP: Hypertext Preprocessor",
+    "year": 1995
+  },
+  {
+    "sigla": "R",
+    "fullName": "R Programming Language",
+    "year": 1995
+  },
+  {
+    "sigla": "SQL",
+    "fullName": "Structured Query Language",
+    "year": 1974
+  },
+  {
+    "sigla": "Kotlin",
+    "fullName": "Kotlin Programming Language",
+    "year": 2011
+  },
+  {
+    "sigla": "Perl",
+    "fullName": "Practical Extraction and Report Language",
+    "year": 1987
+  },
+  {
+    "sigla": "Haskell",
+    "fullName": "Haskell Programming Language",
+    "year": 1990
+  },
+  {
+    "sigla": "Scala",
+    "fullName": "Scala Programming Language",
+    "year": 2003
+  },
+  {
+    "sigla": "MATLAB",
+    "fullName": "MATLAB (Matrix Laboratory)",
+    "year": 1984
+  },
+  {
+    "sigla": "TypeScript",
+    "fullName": "TypeScript Programming Language",
+    "year": 2012
+  },
+  {
+    "sigla": "Lua",
+    "fullName": "Lua Programming Language",
+    "year": 1993
+  },
+  {
+    "sigla": "D",
+    "fullName": "D Programming Language",
+    "year": 2001
+  },
+  {
+    "sigla": "Shell",
+    "fullName": "Unix Shell",
+    "year": 1977
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "json-to-cvs",
+  "version": "1.0.0",
+  "description": "Script to convert Json file to CSV file",
+  "type": "module",
+  "scripts": {
+    "start": "node convJsonToCvs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

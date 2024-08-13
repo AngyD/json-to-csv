@@ -1,0 +1,21 @@
+sigla,fullName,year
+"C","C Programming Language",1972
+"C++","C Plus Plus",1983
+"Java","Java Programming Language",1995
+"Python","Python Programming Language",1991
+"JavaScript","JavaScript Programming Language",1995
+"Ruby","Ruby Programming Language",1995
+"Go","Go Programming Language",2009
+"Swift","Swift Programming Language",2014
+"PHP","PHP: Hypertext Preprocessor",1995
+"R","R Programming Language",1995
+"SQL","Structured Query Language",1974
+"Kotlin","Kotlin Programming Language",2011
+"Perl","Practical Extraction and Report Language",1987
+"Haskell","Haskell Programming Language",1990
+"Scala","Scala Programming Language",2003
+"MATLAB","MATLAB (Matrix Laboratory)",1984
+"TypeScript","TypeScript Programming Language",2012
+"Lua","Lua Programming Language",1993
+"D","D Programming Language",2001
+"Shell","Unix Shell",1977
